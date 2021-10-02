@@ -7,7 +7,7 @@ jeszcze nic nie zawiera
 
 fefwefewff werjwer 
 
---- cs
+``` cs
 
 int x = 10;
 while(true)
@@ -17,3 +17,8 @@ x--
 }
 
 ---
+
+## bibliografia
+
+* dwadawd
+* fesfwf
