@@ -7,11 +7,13 @@ jeszcze nic nie zawiera
 
 fefwefewff werjwer 
 
----cs
+--- cs
+
 int x = 10;
 while(true)
 {
 if(x<5) break;
 x--
 }
+
 ---
